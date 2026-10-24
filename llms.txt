@@ -1,0 +1,110 @@
+# Buckleson
+
+> Buckleson is a blockchain infrastructure company. We build custom blockchains, tokenize real-world assets, launch crypto wallets and protect AI agents.
+
+- Who we are: A blockchain infrastructure company that builds its own blockchain and the products that run on it.
+- What we build: Custom blockchains, asset tokenization, crypto wallets and exchanges, and security for AI agents.
+- Main product: Hyper 0X: a permissioned, post-quantum-resistant L1 with a private L2 for every customer.
+- Products: Hyper 0X, Pavii and Hyper Wallet & SDKs. H0X Pay and HyperRun are coming soon.
+- Who it is for: Banks, fintechs, asset issuers and teams that run AI agents.
+- How to start: Book a 30-minute call. Then we plan a pilot on your own L2.
+
+## About
+
+- [About Buckleson](https://buckleson.com/about/): Buckleson started with a crypto wallet, Hyper Wallet. To remove the hidden charges that many wallets add, it built its own blockchain, Hyper 0X, with an order book inside its consensus. Hyper 0X is modular, like microservices: a private L2 for each application and one shared L1 for settlement and audit. L3s on top of an L2 are coming soon. Buckleson also builds Pavii, which keeps a receipt of every agent action on Hyper 0X.
+- Founder: Vijay Tadepalli, Founder.
+- Belief: We believe blockchain is one of the most underrated technologies. Payments are only the start.
+- What we do now: Protecting AI with blockchain (Pavii); Stablecoin payments (Hyper Wallet and H0X Pay); Faster L1 and L2 chains (Hyper 0X); Tools for builders and their AI agents (SDKs and MCP).
+- Mission: Solve what a database cannot. We use blockchain where a normal database is not enough: records that many companies share, privacy with proof, and ownership that everyone can check.
+- Vision: Records that nobody can secretly change. We want critical systems to run on shared records that nobody can secretly edit, while each person keeps control of their own data.
+- Goal: A blockchain for every application. We want any company to start its own chain as easily as a cloud server. Each application gets a private L2, with settlement and audit on one shared L1.
+- Moat: We own every layer. We built the L1, the L2s, the wallet and the AI security gateway ourselves. So we control fees, roadmap and security, and we test every idea in our own products first.
+- Beyond payments: Prove a fact, keep the data private; Run one process across many companies; Own a part of a large asset; Audit without exposing everything; Rules that run before money moves; AI agents that you can audit. And payments too: they settle in one pass, with one fee.
+
+## Products
+
+- [Hyper 0X](https://buckleson.com/products/hyper-0x/): Our own L1 blockchain, with a private L2 for every customer. Coming soon.
+- [Pavii](https://buckleson.com/products/pavii/): Security gates and tamper-proof receipts for every AI agent. Coming soon.
+- [Hyper Wallet & SDKs](https://buckleson.com/products/hyper-wallet/): A wallet and an exchange in one app, plus SDKs to launch your own. Coming soon.
+- [H0X Pay](https://buckleson.com/products/h0x-pay/): Pay, get paid and invest a slice of every payment. Coming soon.
+- [HyperRun](https://buckleson.com/products/hyperrun/): A realistic FPS where you play, predict and earn. Coming soon.
+
+## Services
+
+- [Blockchain development services](https://buckleson.com/services/): custom blockchains, asset tokenization, wallets and exchanges, wallet SDKs, AI-agent security and forward-deployed engineering.
+- [Custom blockchains and private L2s](https://buckleson.com/services/custom-blockchains/): We build custom blockchains as private L2s on Hyper 0X: your rules, your validators, per-party encryption and bridges to EVM chains, Solana and Sui.
+- [Asset tokenization](https://buckleson.com/services/asset-tokenization/): Tokenize gold, funds, bonds, invoices or property. We build the token, the compliance rules, the investor wallet and the market, settled on Hyper 0X.
+- [Custom wallets, exchanges and compliance](https://buckleson.com/services/wallets-exchanges/): We build crypto wallets and exchanges the way we built Hyper Wallet: on-chain order books, atomic settlement, no seed phrases and compliance as code.
+- [Wallet SDKs for your apps](https://buckleson.com/services/wallet-sdks/): Embed secure wallets, payments and a payment gateway in your apps and games. We integrate the SDK, sign and check every transfer, and keep one audit trail.
+- [AI-agent security](https://buckleson.com/services/ai-agent-security/): We protect your AI agents. Every prompt and tool call goes through six gates, with on-chain rules, a kill switch and tamper-proof receipts on Hyper 0X.
+- [Forward-deployed engineering](https://buckleson.com/services/forward-deployed-engineering/): Buckleson engineers work inside your team to connect Hyper 0X to your systems, public chains, bank ledgers and APIs, from a scoped pilot to production.
+
+## Guides
+
+- [What Can Blockchain Do Beyond Payments and Crypto?](https://buckleson.com/blog/blockchain-use-cases-beyond-payments/): Blockchain does far more than payments. See 8 real use cases, from private identity proofs and shared processes to tokenized assets, and when a database wins.
+- [Blockchain vs Database: When Do You Need a Blockchain?](https://buckleson.com/blog/blockchain-vs-database/): Blockchain vs database: use a blockchain only when several parties write to one record and none of them trusts one owner. See the checklist and trade-offs.
+- [What Is Compliance as Code on a Blockchain?](https://buckleson.com/blog/compliance-as-code-blockchain/): Compliance as code turns KYC checks, limits and approvals into rules that a blockchain runs before each transaction. See how it works and where it falls short.
+- [What Is MEV and How Can a Wallet Protect Users?](https://buckleson.com/blog/mev-protection-explained/): MEV is the profit that bots take when they place trades around a pending swap. See how sandwich attacks work and how a wallet protects users from them.
+- [MPC vs Multisig Wallets: Which Is Safer?](https://buckleson.com/blog/mpc-vs-multisig-wallets/): MPC wallets split one key into shares, and multisig wallets need several full keys. Neither is always safer. Compare theft risk, recovery, approvals and costs.
+- [What Is Proof of Reserve for Tokenized Assets?](https://buckleson.com/blog/proof-of-reserve-explained/): Proof of reserve shows that real assets back every token in circulation. See how it works, where it falls short and how to build it into a tokenized asset.
+- [What Are Shadow AI Agents and How Do You Find Them?](https://buckleson.com/blog/shadow-ai-agents/): Shadow AI agents are AI tools and scripts that staff connect to company data without approval. See how to find them, list them and put them behind one gateway.
+- [How Do Signed Match Results Stop Cheating in Games?](https://buckleson.com/blog/signed-match-results-gaming/): A signed match result shows who reported a score and that nobody changed it. See which cheats it stops, which it cannot and how payouts on a blockchain use it.
+- [Is Your AI System Prompt a Secret?](https://buckleson.com/blog/system-prompt-leakage/): No. Users can often make an AI model repeat its system prompt. Learn why prompts leak, what never belongs in one and how to enforce rules outside the model.
+- [What Are Tokenized Bonds and How Do They Work?](https://buckleson.com/blog/tokenized-bonds-explained/): Tokenized bonds are bonds recorded as tokens on a blockchain. See how issuance, coupons, transfer rules, trades and redemption work, and what stays the same.
+- [Tokenized Deposits vs Stablecoins: What Is the Difference?](https://buckleson.com/blog/tokenized-deposits-vs-stablecoins/): Tokenized deposits are bank money on a blockchain. Stablecoins are tokens backed by a reserve. Compare who issues them, who can hold them and how they settle.
+- [How Can You Verify a Customer Without Seeing Their Data?](https://buckleson.com/blog/verify-customers-without-sharing-data/): You can verify a customer without seeing their data. One trusted party checks the documents once, and others check a signed result or a proof of one fact.
+- [How Do You Design a Web3 Game Economy With Tokens?](https://buckleson.com/blog/web3-game-economy-design/): Web3 game economy design balances faucets that create tokens with sinks that remove them. Learn to set fair rewards, prove payouts and test before launch.
+- [What Is a Blockchain Bridge and How Do You Make One Safe?](https://buckleson.com/blog/what-is-a-blockchain-bridge/): A blockchain bridge moves value between chains. See how lock and mint works, why bridges attract attackers and what a safe bridge checks before any release.
+- [Why Do AI Agents Act on Hallucinations?](https://buckleson.com/blog/ai-agent-hallucination-risk/): An AI agent hallucination becomes an incident when the agent acts on it. Learn the claim, check, act pattern that stops a false claim before it does harm.
+- [What Is AI Agent Identity and Why Does It Matter?](https://buckleson.com/blog/ai-agent-identity/): AI agent identity gives each agent its own keys, rights and status. Learn why shared accounts fail and how short-lived tokens and signed identities stop abuse.
+- [How Does an AI Agent Kill Switch Work?](https://buckleson.com/blog/ai-agent-kill-switch/): An AI agent kill switch stops a rogue agent from outside its runtime. Learn how graduated containment, out-of-band stops and tamper-evident records work.
+- [What Is AI Agent Memory Poisoning?](https://buckleson.com/blog/ai-agent-memory-poisoning/): AI agent memory poisoning plants false facts or hidden orders in what an agent remembers. See how it spreads, how to protect memory writes and how to recover.
+- [AI Agent Tool Calling: How to Secure Every Function Call](https://buckleson.com/blog/ai-agent-tool-calling-security/): Tool calling lets AI agents act, and lets attackers act through them. Protect every call with allow-lists, argument checks, least privilege and egress rules.
+- [What Is an AI Bill of Materials (AI-BOM)?](https://buckleson.com/blog/ai-bill-of-materials/): An AI bill of materials lists every model, dataset, package, MCP server and skill that your agents use. Learn how to pin, check and gate each part.
+- [Asset Tokenization: How to Launch Tokenized Real-World Assets](https://buckleson.com/blog/asset-tokenization-guide/): A plain guide: what asset tokenization is, the five steps to launch tokenized gold, funds, invoices or property, and how compliance and settlement work.
+- [Blockchain Data Encryption: The Four Layers That Matter](https://buckleson.com/blog/blockchain-data-encryption-four-layers/): Blockchain data encryption in four layers: in transit, in use, on the ledger and at rest. What each layer protects against, and how Hyper 0X applies all four.
+- [Blockchain Finality Explained: When Is a Payment Final?](https://buckleson.com/blog/blockchain-finality-explained/): Blockchain finality explained: probabilistic vs deterministic finality, what a reorg is, and why payments and settlement need transactions final in one pass.
+- [Blockchain Payments for Merchants: How to Accept Them](https://buckleson.com/blog/blockchain-payments-for-merchants/): How merchants can accept blockchain payments: checkout flow, settlement and finality, stablecoins versus volatile coins, fees, refunds and compliance basics.
+- [Custodial vs Non-Custodial Wallets: Which to Offer?](https://buckleson.com/blog/custodial-vs-non-custodial-wallet/): A custodial wallet holds keys for the user. A non-custodial wallet keeps them on the device. Compare licensing, recovery and UX to pick the right model.
+- [What Is Denial of Wallet and How Do You Stop It?](https://buckleson.com/blog/denial-of-wallet-ai/): A denial of wallet attack makes an AI agent burn tokens until your budget is gone. Learn how token caps, loop detection and a compact context stop it.
+- [How Blockchain Makes Esports Predictions Transparent](https://buckleson.com/blog/esports-prediction-on-blockchain/): Blockchain can make esports predictions transparent with signed results, smart-contract payouts and a public record. See how it works and the legal limits.
+- [How to Choose a Blockchain Development Company](https://buckleson.com/blog/how-to-choose-a-blockchain-development-company/): What a blockchain development company must deliver, the questions to ask before you hire one, and the red flags that signal a costly rebuild later.
+- [Layer 1 vs Layer 2 Blockchain: What Is the Difference?](https://buckleson.com/blog/layer-1-vs-layer-2-blockchain/): Layer 1 vs layer 2 blockchain explained: the L1 protects and settles, the L2 runs transactions on top. How rollups work and when one L1 with many L2s fits.
+- [MCP Server Security Risks: How to Vet and Gate Servers](https://buckleson.com/blog/mcp-server-security-risks/): MCP servers give AI agents tools, and attackers a new way in. See the main MCP server security risks, from tool poisoning to token theft, and how to vet them.
+- [Why Do Multi-Agent AI Systems Fail in Cascades?](https://buckleson.com/blog/multi-agent-cascading-failures/): Multi-agent AI security starts at the hand-offs. See how one wrong fact spreads through a chain of agents, and how signed messages and circuit breakers stop it.
+- [How Does a Multi-Chain Crypto Wallet Work?](https://buckleson.com/blog/multi-chain-crypto-wallet-guide/): One multi-chain crypto wallet can run Bitcoin, Ethereum, Solana, Tron, TON, XRP, Stellar and Sui. How keys, addresses, swaps and bridges work, and the risks.
+- [Permissioned vs Permissionless Blockchain: What Banks Need](https://buckleson.com/blog/permissioned-vs-permissionless-blockchain/): Permissioned vs permissionless blockchain: why banks and regulated fintechs need known validators, private data and compliance, and when public chains fit.
+- [Play-to-Earn Games Explained: What Broke and What Works](https://buckleson.com/blog/play-to-earn-games-explained/): Play-to-earn games reward players with crypto for playing. See why early P2E economies collapsed and what a sustainable, skill-based model looks like.
+- [How to Stop LLM Data Leaks: PII Redaction for AI Agents](https://buckleson.com/blog/stop-llm-data-leaks-pii-redaction/): Customer data and secrets leak into LLM prompts, logs and outputs. See how PII redaction, output filters and data residency stop leaks, with a GDPR view.
+- [Tokenized Gold Explained: Backing, Audits and ETFs](https://buckleson.com/blog/tokenized-gold-explained/): Tokenized gold is a blockchain token that represents real gold in a vault. See how backing and audits work, and how it compares with gold ETFs and bullion.
+- [Web3 Gaming Wallets: How Players Skip Seed Phrases](https://buckleson.com/blog/web3-gaming-wallets/): How web3 games give players wallets without seed phrases: embedded wallets through SDKs, passkeys, sponsored fees and session keys, and what players really own.
+- [What Is a Wallet SDK and What Must It Include?](https://buckleson.com/blog/what-is-a-wallet-sdk/): A wallet SDK lets a fintech add crypto wallets to its own app without building keys, chains and swaps. What a good SDK includes and how to integrate one.
+- [What Is Micro-Investing? Round-Ups and Payment Slices](https://buckleson.com/blog/what-is-micro-investing/): Micro-investing puts small, automatic amounts into assets through round-ups or a slice of every payment. See how it works, its pros and cons and who it suits.
+- [What Is Prompt Injection? Examples and How to Stop It](https://buckleson.com/blog/what-is-prompt-injection/): Prompt injection hides instructions in text that an AI agent reads. See direct and indirect attacks, real examples and the layered defences that stop them.
+- [Account Abstraction: Blockchain Without Seed Phrases](https://buckleson.com/blog/account-abstraction-no-seed-phrases/): What account abstraction is and why it matters. Users sign in with a face scan and need no gas tokens. Limits and recovery after a lost phone are built in.
+- [Dynamic Blocks: Fast When Quiet, No Backlog at Peaks](https://buckleson.com/blog/dynamic-blocks/): Dynamic blocks explained: fixed-size blocks build backlogs on busy days. Hyper 0X lets each L2 grow and shrink its blocks with demand, so payments never queue.
+- [Private L2 vs Public Blockchain: Which Should an Enterprise Use?](https://buckleson.com/blog/private-l2-vs-public-blockchain/): Public blockchain, private chain or a private L2? Compare privacy, control, finality, cost and interoperability to pick the right option for your business.
+- [Proof of Execution: Turning AI from a Black Box into a Record](https://buckleson.com/blog/proof-of-execution-ai/): Traditional logs cannot prove what an AI actually did. Signed, chained receipts on a blockchain give compliance, billing and disputes one verifiable record.
+- [How to Launch Your Own Crypto Wallet: Build vs White-Label](https://buckleson.com/blog/how-to-launch-a-crypto-wallet/): Can a bank or fintech build a crypto wallet from scratch, or is a white-label wallet SDK the better path? Features, security, costs and timelines compared.
+- [Atomic Settlement: Both Legs or Neither](https://buckleson.com/blog/atomic-settlement/): What atomic settlement is and why Herstatt risk still matters. Hyper Wallet runs an order book inside Hyper 0X consensus to settle every trade in one step.
+- [How to Secure AI Agents: 8 Attacks and How to Stop Them](https://buckleson.com/blog/how-to-secure-ai-agents/): AI agents need deep access to be useful. Learn the eight attacks that target them, from prompt injection to log tampering, and how to stop each one.
+- [What Makes a Blockchain Post-Quantum-Resistant?](https://buckleson.com/blog/post-quantum-resistant-blockchain/): Harvest now, decrypt later is a real threat for records that must stay private for decades. How hybrid ML-KEM-768 + X25519 key exchange protects a blockchain.
+
+## FAQ
+
+- [FAQ: blockchain, tokenization, wallets and AI agents](https://buckleson.com/faq/): answers on enterprise blockchains, AI-agent security, asset tokenization, business wallets and post-quantum encryption.
+
+## Docs
+
+- [What is Hyper 0X?](https://buckleson.com/guides/intro/)
+- [Hyper 0X consensus](https://buckleson.com/hyper-0x/consensus/)
+- [Hyper 0X encryption](https://buckleson.com/hyper-0x/encryption/)
+
+## Contact
+
+- Book a call: https://cal.com/buckleson-group/30min
+- Email: vijay@buckleson.com
+
+## Optional
+
+- [Full text for LLMs](https://buckleson.com/llms-full.txt)
